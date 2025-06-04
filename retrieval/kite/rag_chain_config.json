@@ -1,0 +1,9 @@
+{
+  "retriever_config": {
+    "schema": {
+      "chunk_text": "chunk_text",
+      "document_uri": "document_number",
+      "primary_key": "chunk_id"
+    }
+  }
+}

@@ -1,1 +1,1 @@
-# enhancement
+CICD workflows are not available for this component.
