@@ -1,0 +1,14 @@
+mlflow
+cloudpickle
+databricks-connect
+databricks-vectorsearch
+google-cloud-storage
+ipykernel
+langchain-community
+langchain
+numpy
+pandas
+pyarrow
+pydantic
+pyspark
+databricks-langchain
